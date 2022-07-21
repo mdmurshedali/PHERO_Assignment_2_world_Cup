@@ -294,9 +294,14 @@ hr{
         border-radius: 10px;
         display: flex;
         flex-direction: column;
+        width: 100%;
+        
     }
     .white_bar, .select_bar{
         box-shadow: 2px 3px 2px 2px rgb(247, 242, 242);
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
     }
     .blogs{
         display: grid;
