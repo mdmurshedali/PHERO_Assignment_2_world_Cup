@@ -310,7 +310,8 @@ hr{
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin: 2% auto;
+        margin: 3% auto;
+        padding-bottom: 1%;
     }
 
 }
